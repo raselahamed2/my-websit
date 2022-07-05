@@ -10,6 +10,7 @@ body{
 }
 h1{
     font-size: 50px;
+    color: dimgray;
 }
 .hlf{
     display: flex;
@@ -20,8 +21,20 @@ h1{
     padding: 5%;
 }
 .priyo1 img{
-    width: 70%;
+    width: 90%;
 }
 span{
     color: rgb(252, 177, 39);
+}
+.priyo2{
+    width: 50%;
+    padding: 5%;
+}
+.priyo2 img{
+    width: 100%;
+    float: right;
+}
+.about{
+    display: flex;
+    background-image: url(../img/Frame\ 59.jpg);
 }
