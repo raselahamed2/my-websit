@@ -38,3 +38,36 @@ span{
     display: flex;
     background-image: url(../img/Frame\ 59.jpg);
 }
+.priyo4{
+    text-align: center;
+}
+.title{
+    width: 50%;
+    text-align: center;
+}
+.cover{
+    width: 100%;
+    padding: 30px 70px 20px;
+}
+.title1{
+    width: 100%;
+}
+.faxibal-conatainer{
+    display: flex;
+    margin: 100px;
+}
+.priyo5{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 5px 5px 5px rgb(219, 87, 87);
+}
+.priyo5 img{
+    width: 100%;
+
+}
+h2{
+    text-align: justify;
+    font-weight: 800;
+}
