@@ -1,0 +1,27 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.tag-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(250, 239, 119), rgb(247, 35, 35));
+    padding:10px 30px;
+    border-radius: 10px;
+    font-weight: 800;
+}
+h1{
+    font-size: 50px;
+}
+.hlf{
+    display: flex;
+    background-image: url(../img/Frame.jpg);
+}
+.priyo1{
+    width: 50%;
+    padding: 5%;
+}
+.priyo1 img{
+    width: 70%;
+}
+span{
+    color: rgb(252, 177, 39);
+}
